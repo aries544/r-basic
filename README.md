@@ -2,8 +2,12 @@
 *Con Juan Gabriel Gomila y María Santos*
 
 Mi nombre es José Antonio Carrera
+
 Estoy modificando el archivo README.md
+
 Sigo con la prueba
+
+Esto lo edité en github.com
 
 Conoce toda la estadística descriptiva de la mano de Juan Gabriel Gomila y asienta las bases para convertirte en el Data Scientist del futuro con todo el contenido del curso. En particular verás los mismos contenidos que explicamos en primera de carrera a matemáticos, ingenieros o informáticos como por ejemplo:
 
